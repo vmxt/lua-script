@@ -1,10 +1,10 @@
 # lua-script
-Macro Script addons
+Macro Scripts
 
 # Prerequisite
-- Version 3.3.5a (Wotlk)
+- World of Warcraft version 3.3.5a (Wotlk)
 
 Setup
 ```
-World of Warcraft 3.3.5a/Interface/AddOns/(paste the repository)
+World of Warcraft 3.3.5a/Interface/AddOns/(paste the repository here)
 ```
